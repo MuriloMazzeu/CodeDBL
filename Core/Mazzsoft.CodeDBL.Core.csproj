@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Murilo Mazzeu</Authors>
+    <Company>MuriloMazzeu.NET</Company>
+    <Product>CodeDBL</Product>
+    <PackageLicenseUrl>https://github.com/MuriloMazzeu/CodeDBL/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://murilomazzeu.github.io/CodeDBL/</PackageProjectUrl>
+    <PackageTags>Mazzsoft</PackageTags>
+    <RepositoryType>OpenSource - Public Git</RepositoryType>
+    <RepositoryUrl>https://github.com/MuriloMazzeu/CodeDBL</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Shared\Extensions\" />
+  </ItemGroup>
+
+</Project>
